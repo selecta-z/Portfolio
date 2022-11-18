@@ -1,0 +1,32 @@
+<div class="middle1_description">
+                <p class="middle1_title">About</p>
+                <p class="middle1_subTitle">Lorem ipsum dolor sit amet consectetur 
+                    adipisicing elit. Sunt corporis totam quo voluptas et libero 
+                    maxime suscipit saepe? Repellendus fuga animi earum explicabo 
+                    accusantium ea corporis voluptate pariatur distinctio deserunt 
+                    quisquam quia similique, voluptatem impedit hic error? Nobis 
+                    id a iusto vero accusantium aperiam, inventore non fuga asperiores 
+                    sed doloremque exercitationem doloribus corporis molestiae facere 
+                    libero vel, velit eaque laborum blanditiis neque? Excepturi, nisi 
+                    laborum laboriosam quisquam molestias saepe harum quas non provident nemo ipsa!
+                </p>
+            </div>
+            <!-- <img class="middle1_img" src="./images/wraith_2.png"> -->
+            <div class="middle1_invisibleBlock"></div>
+            <div class="faceBlock">
+                <div class="eye_block">
+                    <div class="eye_big">
+                        <div class="eye_small">
+                            <div class="eye_whiteCircle"></div>
+                        </div>
+                    </div>
+
+                    <div class="eye_big eye">
+                        <div class="eye_small">
+                            <div class="eye_whiteCircle"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mouth"></div>
+            </div>
