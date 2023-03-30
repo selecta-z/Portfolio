@@ -103,15 +103,15 @@ const jobs_link_2 = document.querySelector('.middle2_block2');
 const jobs_link_3 = document.querySelector('.middle2_block3');
 
 jobs_link_1.addEventListener('click', () => {
-  location.href = 'https://selecta-z.github.io/Project-2/HTML_Project_2';
+  location.href = 'https://selecta-z.github.io/Furniture/HTML_Project_2';
 });
 
 jobs_link_2.addEventListener('click', () => {
-  location.href = 'https://selecta-z.github.io/Project-3/HTML_';
+  location.href = 'https://selecta-z.github.io/NFT/HTML_';
 });
 
 jobs_link_3.addEventListener('click', () => {
-  location.href = 'https://selecta-z.github.io/Project-4/html_pr_4';
+  location.href = 'https://selecta-z.github.io/Fast-Food-Delivery/html_pr_4';
 });
 
 // ----------------------------stickyHeader----------------------------
